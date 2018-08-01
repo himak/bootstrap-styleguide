@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "bootstrap-less": "^3.3.8"
+  },
+  "name": "bootswatch",
+  "version": "1.0.0",
+  "description": "Custom Bootstrap styleguide",
+  "main": "index.js",
+  "repository": "https://github.com/himak/bootstrap-styleguide",
+  "author": "Marek Zofota and Bootswatch.com",
+  "license": "MIT"
+}
