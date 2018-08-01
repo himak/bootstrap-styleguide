@@ -2,7 +2,7 @@
 Custom Bootstrap styleguide from Bootswatch.com
 
 
-### Install packages
+### Install Yarn packages
     
     yarn
 
